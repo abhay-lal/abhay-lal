@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhay-lal
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🌱 I’m currently learning Artificial Intelligence and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me 
 
