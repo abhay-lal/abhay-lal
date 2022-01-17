@@ -42,5 +42,5 @@ I am pursuing my bachelors degree in Computer Science Engineering student at SRM
 <a href="https://www.linkedin.com/in/lal-abhay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:abhaylal@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/lal_0_1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.hackerrank.com/@Abhay_L"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"</a>
+<a href="https://www.hackerrank.com/Abhay_L"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"</a>
  
