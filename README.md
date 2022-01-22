@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=I+am+a+Machine+Learning+Developer+!;A+Deep+learning+practitioner..;An+AI+enthusiast+..;A+programmer+!)](https://git.io/typing-svg)
 
-I am pursuing my bachelors degree in Computer Science Engineering student at SRM Institute of Science and Technology.I am very passionate about Machine & Deep Learning.I enjoy creating projects using Tensorflow and Pytorch here are few of my projects, feel free to explore and modify them.
+I am pursuing my bachelors degree in Computer Science Engineering at SRM Institute of Science and Technology.I am very passionate about Machine & Deep Learning.I enjoy creating projects using Tensorflow and Pytorch.Here are few of my projects, feel free to explore and modify them.
 
 - 🔭 I’m currently working on deep learning research 
 
