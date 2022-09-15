@@ -34,7 +34,8 @@ I am pursuing my bachelors degree in Computer Science Engineering at SRM Institu
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay-lal&show_icons=true&theme=radical" alt="abhay-lal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay-lal&show_icons=true&theme=dark" alt="abhay-lal" /></p>
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=abhay-lal&theme=dark" /></p>
 
 ### ✉️ Connect With Me<br>
 <p align="left">
