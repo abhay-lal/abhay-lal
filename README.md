@@ -1,6 +1,7 @@
 <h2 align="center">About me</h2>
 
-I am pursuing my bachelors degree in Computer Science Engineering at SRM Institute of Science and Technology.I am very passionate about Machine & Deep Learning.I enjoy creating projects using Tensorflow and Pytorch.Here are few of my projects, feel free to explore and modify them.
+Research Intern @IITBombay 🎓 | Former Analyst Intern @WellsFargo 💼 | Ex-Samsung PRISM Research Intern 📱 | Former Academic Intern @National university of Singapore 🌐 | CSE Final year Undergraduate @SRMIST 🎓 | Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-lal&label=Profile%20views&color=51b4f2&style=flat" alt="abhay-lal" /> </p>
 
