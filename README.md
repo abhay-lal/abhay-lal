@@ -1,6 +1,6 @@
 <h2 align="center">About me</h2>
 
-Research Intern @IITBombay 🎓 | Former Analyst Intern @WellsFargo 💼 | Ex-Samsung PRISM Research Intern 📱 | Former Academic Intern @National university of Singapore 🌐 | CSE Final year Undergraduate @SRMIST 🎓 | Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
+Computer Science Final year Undergraduate Student @SRMIST 🎓 | Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-lal&label=Profile%20views&color=51b4f2&style=flat" alt="abhay-lal" /> </p>
