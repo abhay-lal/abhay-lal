@@ -36,9 +36,9 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 <ul>
-  <li><a href="https://github.com/abhay-lal/Asset-bubble"><strong>Asset Bubble</strong></a> 🏆 Hackathon Winner: Visualizing financial market anomalies</li>
-  <li><a href="https://github.com/abhay-lal/Alveoli"><strong>Alveoli</strong></a>: Lung segmentation using deep learning</li>
-  <li><a href="https://github.com/abhay-lal/BlogPod"><strong>BlogPod</strong></a>: Podcast recommendation with NLP & embeddings</li>
+  <li><a href="https://github.com/abhay-lal/Asset-bubble"><strong>Asset Bubble</strong></a> 🏆 Hackathon Winner: Market Crash Prediction Application</li>
+  <li><a href="https://github.com/abhay-lal/Alveoli"><strong>Alveoli</strong></a>: Lung disease detection application with Blockchain</li>
+  <li><a href="https://github.com/abhay-lal/BlogPod"><strong>BlogPod</strong></a>: Podcast to Blogs with LLMs and RAG</li>
   <li><a href="https://github.com/abhay-lal/TinyML-Owl"><strong>Owl Vocalization Detection Collar</strong></a>: TinyML model deployed on microcontroller for real-time burrowing owl call classification</li>
   <li><a href="https://github.com/abhay-lal/Agni_astra"><strong>Fire-Ready Forests Challenge</strong></a> 🏆 Hackathon Winner: Hierarchical ensemble for tree classification in fire-prone ecosystems</li>
 </ul>
