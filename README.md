@@ -11,7 +11,7 @@
   🎓 MS in Computer Science & Engineering (2024–2026) at <strong>UC San Diego</strong><br />
   🤖 Passionate about <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong> for healthcare & environmental impact<br />
   🌱 Exploring TinyML, Reinforcement Learning, and Mixed-Effects Modeling<br />
-  🎯 Open to collaborations on research and internships
+  🎯 Open to collaborations on projects
 </p>
 
 <hr />
