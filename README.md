@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I’m Abhay Lal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
-  <p>Graduate student @ <strong>UC San Diego</strong> | AI & ML Enthusiast 🤖 | Innovating at the intersection of healthcare & ecology 🌱</p>
+  <p>Graduate student @ <strong>UC San Diego</strong> | AI & ML Enthusiast 🤖 | Innovating at the intersection of Healthcare & Artificial Intelligence 🌱</p>
   <p><img src="https://komarev.com/ghpvc/?username=abhay-lal&label=Profile%20views&color=51b4f2&style=flat" alt="Profile Views" /></p>
 </div>
 
@@ -39,8 +39,8 @@
   <li><a href="https://github.com/abhay-lal/Asset-bubble"><strong>Asset Bubble</strong></a> 🏆 Hackathon Winner: Visualizing financial market anomalies</li>
   <li><a href="https://github.com/abhay-lal/Alveoli"><strong>Alveoli</strong></a>: Lung segmentation using deep learning</li>
   <li><a href="https://github.com/abhay-lal/BlogPod"><strong>BlogPod</strong></a>: Podcast recommendation with NLP & embeddings</li>
-  <li><a href="https://github.com/abhay-lal/BUOWSET-audio"><strong>Owl Vocalization Detection Collar</strong></a>: TinyML model deployed on microcontroller for real-time burrowing owl call classification</li>
-  <li><a href="https://github.com/abhay-lal/Fire-Ready-Forests"><strong>Fire-Ready Forests Challenge</strong></a> 🏆 Hackathon Winner: Hierarchical ensemble for tree classification in fire-prone ecosystems</li>
+  <li><a href="https://github.com/abhay-lal/TinyML-Owl"><strong>Owl Vocalization Detection Collar</strong></a>: TinyML model deployed on microcontroller for real-time burrowing owl call classification</li>
+  <li><a href="https://github.com/abhay-lal/Agni_astra"><strong>Fire-Ready Forests Challenge</strong></a> 🏆 Hackathon Winner: Hierarchical ensemble for tree classification in fire-prone ecosystems</li>
 </ul>
 
 <hr />
